@@ -1,11 +1,11 @@
 {
   "StaticFiles": {
     "Dependencies.json": {
-      "MD5": "42452554b9e74413be139cfc9514a7a0",
+      "MD5": "bee16ce557d396127f6edd294399587e",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies.json"
     },
     "Core\\PokeBuddy.Core.dll": {
-      "MD5": "19d8ca28d61c12744aa22e7238aacfaf",
+      "MD5": "dfb3f62872f173282c2dfe25d7502d20",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Core/PokeBuddy.Core.dll"
     },
     "Dependencies\\C5.dll": {
@@ -57,17 +57,33 @@
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/PokeBuddy.exe.config"
     },
     "settings.json": {
-      "MD5": "6083d4f8dc73f50d478d3473b234a03d",
+      "MD5": "28c44717f706209c4ae5b263ceab3894",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/settings.json"
     },
     "Dependencies\\CommandLine.dll": {
       "MD5": "ec0e2dd54144d6f6a317b7daa715d418",
       "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/CommandLine.dll"
+    },
+    "Dependencies\\System.Data.HashFunction.Core.dll": {
+      "MD5": "46f07ac7f7e156ea69123bdfec1b7d2e",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Data.HashFunction.Core.dll"
+    },
+    "Dependencies\\System.Data.HashFunction.Interfaces.dll": {
+      "MD5": "4ea6a4e75cadddceb20606b97621fcce",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Data.HashFunction.Interfaces.dll"
+    },
+    "Dependencies\\System.Data.HashFunction.xxHash.dll": {
+      "MD5": "77619785f3b6753517d2816963e93f21",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/System.Data.HashFunction.xxHash.dll"
+    },
+    "Dependencies\\SharpRaven.dll": {
+      "MD5": "067e981795183f5ce430ecbf068c0295",
+      "Download": "https://raw.github.com/finndev/PokeBuddy/master/Dependencies/SharpRaven.dll"
     }
   },
   "Patches": {},
   "Loader": {
-    "MD5": "58b667340114eba5a7f4f8f64e020adf",
+    "MD5": "0f841a62373733be31d9a651607eded0",
     "Download": "https://raw.github.com/finndev/PokeBuddy/master/Loader/PokeBuddy.exe"
   }
 }
